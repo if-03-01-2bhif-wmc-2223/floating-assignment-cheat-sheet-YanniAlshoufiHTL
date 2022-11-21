@@ -55,13 +55,6 @@ strong {
   filter: brightness(0.7);
 }
 
-.wrapper {
-  position: relative;
-  width: 80vw;
-  left: 10vw;
-  margin-bottom: 20vh;
-}
-
 .answer {
   margin-left: 10%;
 }
@@ -77,6 +70,13 @@ strong {
   padding: 20px;
   background-color: #abb1c0;
   color: #21252b;
+}
+
+.wrapper {
+  position: relative;
+  width: 80vw;
+  left: 10vw;
+  margin-bottom: 20vh;
 }
 
 /*# sourceMappingURL=style.css.map */
